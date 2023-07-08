@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.babi{
+    border:5px solid black;
+    padding:50px;
+    width: 275px;
+    height:850px;
+    background-image:url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/background%2C-zoom-background-design-template-d0b25c9820172bf77229af455ac429ec_screen.jpg?ts=1610962817");
+    background-position:center;
+    background-size:cover;
+    transition:transform 0.3s ease-in-out;
+}
